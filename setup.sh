@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# https://forgejo.org/docs/next/admin/actions/#settings
+# https://forgejo.org/docs/next/admin/actions/#installation-of-the-oci-image
 set -e
 
 mkdir -p data
